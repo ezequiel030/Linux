@@ -5,6 +5,7 @@
 
 ## Cambiar el host sin reiniciar
 ![hostname](img/hostname.jpg)
+
 ![hostnameModifi](Monster_Server.jpg)
 
 ## Versión del sistema
