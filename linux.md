@@ -4,7 +4,8 @@
 ![host](img/hostname.jpg)
 
 ## Cambiar el host sin reiniciar
-![](img/)
+![hostname](img/hostname.jpg)
+![hostnameModifi](Monster_Server.jpg)
 
 ## Versión del sistema
 ![](img/)
@@ -50,7 +51,3 @@
 
 ## Configuración de la red: Otra forma: /etc/resolv.conf
 ![](img/)
-
-
-
-~~##
