@@ -15,7 +15,9 @@
 ![](img/RAM.jpg)
 
 ## CPU
-![](img/)
+![cpu](img/cpu.jpg)
+
+![nproc](img/cpu_n.jpg)
 
 ## Versión del núcleo y arquitectura
 ![](img/)
