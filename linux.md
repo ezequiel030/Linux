@@ -1,7 +1,7 @@
 # Conociendo el sistema.
 
 ## Nombre del Host
-![](img/)
+![host](img/hostname.jpg)
 
 ## Cambiar el host sin reiniciar
 ![](img/)
