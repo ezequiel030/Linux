@@ -1,3 +1,3 @@
 # Linux
 
-![Linux](img/)
+![Linux](img/linux-comandos.jpeg)
