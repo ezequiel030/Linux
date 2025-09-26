@@ -4,7 +4,7 @@
 ![host](img/hostname.jpg)
 
 ## Cambiar el host sin reiniciar
-![hostname](img/hostname.jpg)
+![hostname](img/cambio_host.jpg)
 
 ![hostnameModifi](img/Monster_Server.jpg)
 
