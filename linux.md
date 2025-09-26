@@ -12,7 +12,7 @@
 ![version_Debian](img/version_Debian.jpg)
 
 ## Memoria RAM
-![](img/)
+![](img/RAM.jpg)
 
 ## CPU
 ![](img/)
