@@ -9,7 +9,7 @@
 ![hostnameModifi](img/Monster_Server.jpg)
 
 ## Versión del sistema
-![](img/)
+![version_Debian](img/version_Debian.jpg)
 
 ## Memoria RAM
 ![](img/)
