@@ -33,17 +33,23 @@
 
 ## Usuarios y grupos del sistema
 1. Usuarios
+
 cat /etc/passwd 
+
 ![Usuario_grupos](img/usuarios1.jpg)
 
 cat /etc/shadow
+
 ![Usuario_grupos](img/usuarios2.jpg)
 
-3. Grupos
+2. Grupos
+
 cat /etc/group 
+
 ![grupos](img/grupo1.jpg)
 
 cat /etc/gshadow
+
 ![grupos](img/grupo2.jpg)
 
 ## Información de la red
