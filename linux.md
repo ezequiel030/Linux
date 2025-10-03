@@ -12,7 +12,7 @@
 ![version_Debian](img/version_Debian.jpg)
 
 ## Memoria RAM
-![](img/RAM.jpg)
+![Ram](img/RAM.jpg)
 
 ## CPU
 ![cpu](img/cpu.jpg)
@@ -20,37 +20,49 @@
 ![nproc](img/cpu_n.jpg)
 
 ## Versión del núcleo y arquitectura
-![](img/)
+![](img/arquitectura.jpg)
 
 ## Discos y particiones
-![](img/)
+![Particiones](img/particion_disco.jpg)
 
 ## Sistemas montados
-![](img/)
+![Sistemas_montados](img/sistemas_montados.jpg)
 
 ## Tamaño de una carpeta
-![](img/)
+![Tamaño_carpeta](img/tamaño_carpeta.jpg)
 
 ## Usuarios y grupos del sistema
-![](img/)
+1. Usuarios
+cat /etc/passwd 
+![Usuario_grupos](img/usuarios1.jpg)
+
+cat /etc/shadow
+![Usuario_grupos](img/usuarios2.jpg)
+
+3. Grupos
+cat /etc/group 
+![grupos](img/grupo1.jpg)
+
+cat /etc/gshadow
+![grupos](img/grupo2.jpg)
 
 ## Información de la red
-![](img/)
+![Info_Red](img/info_Red.jpg)
 
 ## Comprobar DNS
-![](img/)
+![DNS](img/comprobar_Dns.jpg)
 
 ## Configuración de la red: /etc/network/interfaces
-![](img/)
+![Config_Red](img/)
 
 ## Configuración tradicional DNS: cat /etc/resolv.conf
-![](img/)
+![Config_DNS](img/)
 
 ## Reiniciar la red (Debian sin ENTORNO GRÁFICO utiliza networking)
-![](img/)
+![Reiniciar_Red](img/)
 
 ## Si necesitamos bajar o subir una tarjeta de red:
-![](img/)
+![Tarjeta_Red](img/)
 
 ## Configuración de la red: Otra forma: /etc/resolv.conf
-![](img/)
+![Config_Red_alternativa](img/)
