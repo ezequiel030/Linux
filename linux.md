@@ -59,13 +59,13 @@ cat /etc/gshadow
 ![DNS](img/comprobar_Dns.jpg)
 
 ## Configuración de la red: /etc/network/interfaces
-![Config_Red](img/)
+![Config_Red](img/Red_interfaces.jpg)
 
 ## Configuración tradicional DNS: cat /etc/resolv.conf
-![Config_DNS](img/)
+![Config_DNS](img/config_Dns.jpg)
 
 ## Reiniciar la red (Debian sin ENTORNO GRÁFICO utiliza networking)
-![Reiniciar_Red](img/)
+![Reiniciar_Red](img/reiniciar_Red.jpg)
 
 ## Si necesitamos bajar o subir una tarjeta de red:
 ![Tarjeta_Red](img/)
